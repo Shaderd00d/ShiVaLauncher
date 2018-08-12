@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2047
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ShiVaLauncher", "ShiVaLauncher\ShiVaLauncher.vcxproj", "{D0621939-1ABD-4CBE-BF0D-B129C6F49639}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D0621939-1ABD-4CBE-BF0D-B129C6F49639}.Debug|x64.ActiveCfg = Debug|x64
+		{D0621939-1ABD-4CBE-BF0D-B129C6F49639}.Debug|x64.Build.0 = Debug|x64
+		{D0621939-1ABD-4CBE-BF0D-B129C6F49639}.Debug|x86.ActiveCfg = Debug|Win32
+		{D0621939-1ABD-4CBE-BF0D-B129C6F49639}.Debug|x86.Build.0 = Debug|Win32
+		{D0621939-1ABD-4CBE-BF0D-B129C6F49639}.Release|x64.ActiveCfg = Release|x64
+		{D0621939-1ABD-4CBE-BF0D-B129C6F49639}.Release|x64.Build.0 = Release|x64
+		{D0621939-1ABD-4CBE-BF0D-B129C6F49639}.Release|x86.ActiveCfg = Release|Win32
+		{D0621939-1ABD-4CBE-BF0D-B129C6F49639}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {905D0D18-87F9-41F2-A793-4A87AEB87CEF}
+	EndGlobalSection
+EndGlobal
